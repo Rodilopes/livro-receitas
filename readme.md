@@ -4,3 +4,4 @@ Bem vindo
 
 - pavê
 - caldo de galinha
+- bolo de cenoura
